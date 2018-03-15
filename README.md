@@ -1,8 +1,8 @@
 # EmotionRecognition
 
-##Screenshots
+*Screenshots*
 
-![Loading Image](https://imgur.com/uzPaai4)
+![Loading Image](https://goo.gl/VX78Ur)
 
-![After Processing](https://imgur.com/pUDlItA)
+![After Processing](https://goo.gl/zFjEZQ)
 
