@@ -2,6 +2,7 @@
 
 ##Screenshots
 
-![alt text](https://raw.githubusercontent.com/rootone-lab/emotionrecognition/1.png)
+![Loading Image](https://imgur.com/uzPaai4)
 
-![alt text](https://raw.githubusercontent.com/rootone-lab/emotionrecognition/2.png)
+![After Processing](https://imgur.com/pUDlItA)
+
