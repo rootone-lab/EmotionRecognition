@@ -1,8 +1,8 @@
 # EmotionRecognition
 
-*Screenshots*
+## *Screenshots*
 
-![Loading Image](https://goo.gl/VX78Ur)
+![Loading Image](https://github.com/rootone-lab/EmotionRecognition/blob/master/1.PNG)
 
-![After Processing](https://goo.gl/zFjEZQ)
+![After Processing](https://github.com/rootone-lab/EmotionRecognition/blob/master/2.PNG)
 
